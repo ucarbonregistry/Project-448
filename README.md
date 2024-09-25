@@ -1,6 +1,8 @@
 # Project-448
 19.5 MW WIND POWER PROJECT IN RAJASTHAN BY LEAP GREEN ENERGY PVT LTD
 
+![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3D%252Fy%252B6crNqltiIPZ6hgqCRGA%253D%253D&size=2)
+
 Scale of the project activity Large Scale Project
 
 Project participants LEAP GREEN ENERGY PRIVATE
