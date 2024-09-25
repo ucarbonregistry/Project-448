@@ -52,3 +52,35 @@ Moda /7500kW /Jaisalmer /Rajasthan
 ___________
 Chord /2500kW /Jaisalmer /Rajasthan
 ______________
+
+LOC NO Make Site Capacity Village Latitude Longitude
+_____________
+AK249 Suzlon Akal 1500 Sangana 26.80342 71.115722
+____________
+AK279 Suzlon Akal 1500 Sangana 26.80147 71.132583
+_________
+AK408 Suzlon Akal 1500 Sangana 26.78594 71.110167
+_____________
+AK223 Suzlon Akal 1250 Chord 26.76533 71.137806
+____________
+AK30 Suzlon Akal 1250 Chord 26.70306 71.102083
+___________
+AK31 Suzlon Akal 1250 Moda 26.70006 71.104361
+__________
+AK32 Suzlon Akal 1250 Moda 26.69747 71.106583
+__________
+AK33 Suzlon Akal 1250 Moda 26.69317 71.109056
+__________
+AK26 Suzlon Akal 1250 Sirwa 26.68842 71.100056
+___________
+AK35 Suzlon Akal 1250 Moda 26.68886 71.115833
+__________
+AK36 Suzlon Akal 1250 Moda 26.68636 71.117194
+__________
+AK25 Suzlon Akal 1250 Sirwa 26.68 71.106806
+_________
+AK37 Suzlon Akal 1250 Moda 26.68203 71.117917
+___________
+AK16 Suzlon Akal 1250 Sirwa 26.66081 71.090639
+___________
+AK15 Suzlon Akal 1250 Sirwa 26.65869 71.094722
