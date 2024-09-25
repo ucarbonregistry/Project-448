@@ -84,3 +84,70 @@ ___________
 AK16 Suzlon Akal 1250 Sirwa 26.66081 71.090639
 ___________
 AK15 Suzlon Akal 1250 Sirwa 26.65869 71.094722
+_____________
+MP-01 2015-2023
+
+ISSUE DATE: 25/09/2024
+
+total qty: 160224 CoUs
+_____________
+Serial Number: 0001-000001-004373-UCR-CoU-IN-448-01092015-31122015
+
+Vintage Year: 2015
+
+Quantity: 4373
+_____________________
+Serial Number: 0001-004374-025082-UCR-CoU-IN-448-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 20709
+___________
+Serial Number: 0001-004374-025082-UCR-CoU-IN-448-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 20709
+_________________
+Serial Number: 0001-025083-046014-UCR-CoU-IN-448-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 20932
+____________
+Serial Number: 0001-046015-064915-UCR-CoU-IN-448-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 18901
+_________________
+Serial Number: 0001-064916-084168-UCR-CoU-IN-448-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 19253
+_________________________
+Serial Number: 0001-084169-101839-UCR-CoU-IN-448-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 17671
+____________
+Serial Number: 0001-101840-122407-UCR-CoU-IN-448-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 20568
+____________________
+Serial Number: 0001-122408-140868-UCR-CoU-IN-448-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity:18461
+________________
+Serial Number: 0001-140869-160224-UCR-CoU-IN-448-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 19356
+________________________
