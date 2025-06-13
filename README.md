@@ -153,3 +153,14 @@ Vintage Year: 2023
 
 Quantity: 19356
 ________________________
+MP-02 :2024
+
+QTY: 12444
+
+ISSUE DATE: 13/06/2025
+____________
+Serial Number: 0002-160785-172668-UCR-CoU-IN-448-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 12444
